@@ -19,3 +19,6 @@ client/test-results/
 client/e2e/test-results/
 mcp.json
 .claude/settings.local.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
